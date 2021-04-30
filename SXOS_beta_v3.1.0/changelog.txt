@@ -1,0 +1,5 @@
+SXOS 3.1.0 beta changelog:
+- Added support for firmware 11.0
+- Added support for Flycast fast ram
+- Added support for chainloading with Mariko BEK
+- Small improvement in USB XCI loading
